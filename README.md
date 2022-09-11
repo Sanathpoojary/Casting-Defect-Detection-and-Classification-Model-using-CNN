@@ -15,4 +15,4 @@ Another dataset is manually created by using the images from ‘Defective’ cat
 Figure 1 below illustrates the Algorithm's Block Diagram.
 
 
-                          ![image](https://user-images.githubusercontent.com/102479943/189540722-afe05f0e-dfb6-4701-8c34-19c6059621d5.png)
+![image](https://user-images.githubusercontent.com/102479943/189540722-afe05f0e-dfb6-4701-8c34-19c6059621d5.png)
