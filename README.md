@@ -11,7 +11,9 @@ The dataset used here is an image dataset which consists of 7348 images.  6633 i
 2. Non-defective
 
 Another dataset is manually created by using the images from ‘Defective’ category with two categories i.e. the defect types.
+
 1.Fins: A fin is any extra or undesirable material that is affixed to a cast. At the parting faces, this thin layer of metal often develops.
+
 2.Heat cracks: The development of shrinkage cracks during the solidification of weld metal are known as heat cracks.
 
 Figure 1 below illustrates the Algorithm's Block Diagram.
