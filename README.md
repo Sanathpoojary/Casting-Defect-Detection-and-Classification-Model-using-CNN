@@ -26,3 +26,8 @@ Figure 2 below illustrates the convolutional network's structure in usage.
  
 ![image](https://user-images.githubusercontent.com/102479943/189540834-8de9aa81-770f-4a82-b8b7-a549d885508e.png)
 
+
+**Conclusion**
+
+The model used here managed to classify the images has been sufficiently accurate in identifying the defects and also in increasing the type of defect found. This can be more efficient than the human supervision. But the accuracy can be further increased by using a better algorithm by using better computing resources. This can make the model usable in cast industrial level. The number of type of defects identified can also be increased and also use images of better quality to further increase the accuracy of the model.
+
