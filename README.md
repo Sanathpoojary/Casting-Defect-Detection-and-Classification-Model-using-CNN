@@ -18,3 +18,11 @@ Figure 1 below illustrates the Algorithm's Block Diagram.
 
 
 ![image](https://user-images.githubusercontent.com/102479943/189540722-afe05f0e-dfb6-4701-8c34-19c6059621d5.png)
+
+
+
+Figure 2 below illustrates the convolutional network's structure in usage.
+
+ 
+![image](https://user-images.githubusercontent.com/102479943/189540834-8de9aa81-770f-4a82-b8b7-a549d885508e.png)
+
