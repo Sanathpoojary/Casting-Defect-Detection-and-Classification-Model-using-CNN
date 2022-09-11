@@ -9,6 +9,7 @@ This work aims to develop a neural network to categorize the submersible pump im
 The dataset used here is an image dataset which consists of 7348 images.  6633 images of 300X300 pixel size are used for training. There are two categories:
 1. Defective
 2. Non-defective
+
 Another dataset is manually created by using the images from ‘Defective’ category with two categories i.e. the defect types.
 1.Fins: A fin is any extra or undesirable material that is affixed to a cast. At the parting faces, this thin layer of metal often develops.
 2.Heat cracks: The development of shrinkage cracks during the solidification of weld metal are known as heat cracks.
