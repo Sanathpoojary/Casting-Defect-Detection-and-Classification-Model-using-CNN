@@ -14,7 +14,7 @@ Another dataset is manually created by using the images from ‘Defective’ cat
 1.Fins: A fin is any extra or undesirable material that is affixed to a cast. At the parting faces, this thin layer of metal often develops.
 2.Heat cracks: The development of shrinkage cracks during the solidification of weld metal are known as heat cracks.
 
-**Figure 1 below illustrates the Algorithm's Block Diagram.
-**
+Figure 1 below illustrates the Algorithm's Block Diagram.
+
 
 ![image](https://user-images.githubusercontent.com/102479943/189540722-afe05f0e-dfb6-4701-8c34-19c6059621d5.png)
