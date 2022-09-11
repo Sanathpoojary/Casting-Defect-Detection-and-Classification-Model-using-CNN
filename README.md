@@ -22,6 +22,16 @@ Figure 1 below illustrates the Algorithm's Block Diagram.
 ![image](https://user-images.githubusercontent.com/102479943/189540722-afe05f0e-dfb6-4701-8c34-19c6059621d5.png)
 
 
+The availability of the defect is identified with a 94 percent accuracy rate, and the type of the defect is identified with a 68 percent accuracy rate. To test the prepared model, a distinct image set was employed that was never used elsewhere.
+
+The first convolutional layer has eight filters with a three by three kernel size matrix. Reduce the image size by half by making 2-pixel steps at a time.
+
+First pooling layer: By using the maximum pooling matrix (2 by 2) and 2-pixel strides sequentially, the image size is further reduced by half.
+
+The first convolutional layer and the second layer are identical. The first pooling layer and the second pooling layers are also the same.
+
+In order to be fed into the fully-connected layer, two-dimensional pixel data must be flattened into one dimension. In order to translate the scores into a chance that an image is defective, the output layer, which only has one unit, uses a sigmoid function for activation. With exception of the output layer, all layers use the Rectified Linear Unit (ReLU) activation function.
+
 
 Figure 2 below illustrates the convolutional network's structure in usage.
 
